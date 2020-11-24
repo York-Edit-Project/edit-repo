@@ -1,9 +1,9 @@
 ---
-name: name
-about: about
-title: 
-labels: 
-assignees: 
+name: issues
+about: issues template
+title: Issues of EP
+labels: ''
+assignees: ''
 
 ---
 

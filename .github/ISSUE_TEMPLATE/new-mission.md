@@ -1,9 +1,9 @@
 ---
-name: name
-about: about
-title: 
-labels: 
-assignees: 
+name: new mission
+about: new mission template
+title: EP
+labels: ''
+assignees: ''
 
 ---
 
