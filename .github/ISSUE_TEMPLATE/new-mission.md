@@ -2,7 +2,7 @@
 name: new mission
 about: new mission template
 title: EP
-labels: ''
+labels: new mission
 assignees: ''
 
 ---

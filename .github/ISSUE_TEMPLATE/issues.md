@@ -2,7 +2,7 @@
 name: issues
 about: issues template
 title: Issues of EP
-labels: ''
+labels: bugs
 assignees: ''
 
 ---
