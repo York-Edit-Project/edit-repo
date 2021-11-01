@@ -1,13 +1,13 @@
 ---
 name: new mission
 about: new mission template
-title: EP
+title: BF-EP-
 labels: new mission
 assignees: ''
 
 ---
 
-# BF-EP-00
+# BF-EP-
 
 ## Notices
 
@@ -17,7 +17,7 @@ assignees: ''
 - Comments：
 
 ## 视频剪辑工作
-- [ ] raw文件调色，输出调色后待剪辑素材
+- [ ] raw文件调色，输出调色后待剪辑素材（如需要）
 - [ ] 添加片头(视频概要，黑色背景，白色字)
 - [ ] 选择片头配乐
 - [ ] **剪辑正片，尽量小于9分钟**
